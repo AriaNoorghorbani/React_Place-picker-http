@@ -4,7 +4,6 @@ export default function Places({
   fallbackText,
   onSelectPlace,
   isLoading,
-  error,
 }) {
   console.log(places);
   return (
